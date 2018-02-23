@@ -1,0 +1,4 @@
+Drag "VIP_Designer_Flowchart_<<Action>>"
+Drop "DropUnderStart", 
+Click "VIP_canvas_<<Action>>"
+TypeText deleteKey

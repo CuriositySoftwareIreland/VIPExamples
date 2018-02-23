@@ -1,0 +1,8 @@
+C:\huwwork\work\HelloArea\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\huwwork\work\HelloArea\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\huwwork\work\HelloArea\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\huwwork\work\HelloArea\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\huwwork\work\HelloArea\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\huwwork\work\HelloArea\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+C:\huwwork\work\HelloArea\PrimeNumber\bin\Debug\ClassLibrary1.dll
+C:\huwwork\work\HelloArea\PrimeNumber\bin\Debug\ClassLibrary1.pdb

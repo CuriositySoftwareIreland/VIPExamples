@@ -1,0 +1,1 @@
+"C:\Program Files\Curiosity\Visual Integration Processor\VIPExecutor.exe" -fp="C:\ProgramData\VIP\examples\DailyBackup\DailyBackup.vip" -debugMode=True 

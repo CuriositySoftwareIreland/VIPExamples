@@ -1,0 +1,14 @@
+F:\shipped_examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberConsole.exe
+F:\shipped_examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberConsole.pdb
+F:\shipped_examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberCheck.dll
+F:\shipped_examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberCheck.pdb
+F:\shipped_examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.csprojResolveAssemblyReference.cache
+F:\shipped_examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.exe
+F:\shipped_examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberConsole.exe
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberConsole.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberCheck.dll
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Debug\PrimeNumberCheck.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.csprojResolveAssemblyReference.cache
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.exe
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Debug\PrimeNumberConsole.pdb

@@ -1,0 +1,32 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://testcover.com/axis2/services/TestCases/types">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <getTestCases>
+	  <User>huwprice1</User>
+	  <Password>huwprice1</Password>
+	  <Heading>
+	    <RequestName>Car Configuration Test - normal tire pressure</RequestName>
+	    <FactorName>engine</FactorName>
+	    <FactorName>transmission</FactorName>
+	    <FactorName>tires</FactorName>
+	  </Heading>
+	  <PartitionIn>
+	    <Block>
+	      <FactorValues>
+	        <FactorValue>v6</FactorValue>
+	        <FactorValue>v6_turbo</FactorValue>
+	        <FactorValue>v8</FactorValue>
+	      </FactorValues>
+	      <FactorValues>
+	        <FactorValue>manual</FactorValue>
+	        <FactorValue>automatic</FactorValue>
+	      </FactorValues>
+	      <FactorValues>
+	        <FactorValue>summer</FactorValue>
+	        <FactorValue>winter</FactorValue>
+	      </FactorValues>
+	    </Block>
+	  </PartitionIn>
+	</getTestCases>
+</soapenv:Body>
+</soapenv:Envelope>

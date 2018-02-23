@@ -1,0 +1,8 @@
+alter table [VIPdb].[VIP].[~@3@~] ADD PROJECT_ID [INT] NULL
+GO
+UPDATE [VIPdb].[VIP].[~@3@~] SET PROJECT_ID = 1
+GO
+ALTER TABLE [VIP].[~@3@~] ADD  CONSTRAINT [~@3@~_PROJECT_ID]  DEFAULT (1) FOR [PROJECT_ID]
+GO
+Alter table [VIPdb].[VIP].[~@3@~] alter COLUMN PROJECT_ID [INT] NOT NULL
+GO

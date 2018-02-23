@@ -1,0 +1,23 @@
+DoubleClick "yip"
+Click "File"
+Click (Image:"New", WaitFor:20)
+wait 5
+Click "DesignerClick"
+wait 1
+DoubleClick "Flowchart", 
+<<EGGTAG1>>
+TypeText altKey, "f"
+wait 5
+TypeText "s"
+wait 3
+TypeText Return
+wait 2
+TypeText "1"
+Wait 2
+TypeText Return
+Wait 3
+TypeText Return
+Wait 2
+TypeText altKey, F4
+Wait 3
+TypeText Escape

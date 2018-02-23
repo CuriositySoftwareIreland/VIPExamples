@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberCheck", "PrimeNumberCheck\PrimeNumberCheck.csproj", "{3BBBFC86-6724-4864-B7A1-CD359E38388E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberConsole", "PrimeNumberConsole\PrimeNumberConsole.csproj", "{1240421A-DE35-482D-AC1B-E46A50671D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbeAddOn", "PrimeNumberAddOn\PrimeNumbeAddOn.csproj", "{DEF8F55D-928E-4EA6-AB72-2D3C658EA178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBBFC86-6724-4864-B7A1-CD359E38388E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBBFC86-6724-4864-B7A1-CD359E38388E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBBFC86-6724-4864-B7A1-CD359E38388E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBBFC86-6724-4864-B7A1-CD359E38388E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1240421A-DE35-482D-AC1B-E46A50671D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1240421A-DE35-482D-AC1B-E46A50671D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1240421A-DE35-482D-AC1B-E46A50671D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1240421A-DE35-482D-AC1B-E46A50671D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF8F55D-928E-4EA6-AB72-2D3C658EA178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF8F55D-928E-4EA6-AB72-2D3C658EA178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF8F55D-928E-4EA6-AB72-2D3C658EA178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF8F55D-928E-4EA6-AB72-2D3C658EA178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

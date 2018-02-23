@@ -1,0 +1,7 @@
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Release\PrimeNumberConsole.exe
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Release\PrimeNumberConsole.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Release\PrimeNumberCheck.dll
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\bin\Release\PrimeNumberCheck.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Release\PrimeNumberConsole.csprojResolveAssemblyReference.cache
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Release\PrimeNumberConsole.exe
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberConsole\obj\Release\PrimeNumberConsole.pdb

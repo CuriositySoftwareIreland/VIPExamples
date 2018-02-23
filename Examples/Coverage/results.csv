@@ -1,0 +1,181 @@
+Warehouse.Name,TaxCategory.Name,Currency.CurrencyCode,ShippingMethod.Name
+Warehouse 1 (New York),Electronics & Software,JPY,2nd Day Air
+Warehouse 1 (New York),Downloadable Products,USD,Ground
+Warehouse 1 (New York),Apparel,EUR,Next Day Air
+Warehouse 1 (New York),Downloadable Products,RUB,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,CAD,Ground
+Warehouse 2 (Los Angeles),Books,GBP,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,RON,Ground
+Warehouse 1 (New York),Electronics & Software,SEK,Ground
+Warehouse 1 (New York),Downloadable Products,CNY,Ground
+Warehouse 1 (New York),Apparel,USD,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,USD,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,JPY,Next Day Air
+Warehouse 2 (Los Angeles),Apparel,INR,Next Day Air
+Warehouse 1 (New York),Downloadable Products,AUD,Next Day Air
+Warehouse 2 (Los Angeles),Apparel,CNY,2nd Day Air
+Warehouse 1 (New York),Books,JPY,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,CNY,2nd Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,INR,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,CAD,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,JPY,2nd Day Air
+Warehouse 2 (Los Angeles),Books,CAD,Next Day Air
+Warehouse 1 (New York),Downloadable Products,SEK,2nd Day Air
+Warehouse 1 (New York),Books,AUD,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,CNY,Ground
+Warehouse 2 (Los Angeles),Books,RON,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,RUB,Ground
+Warehouse 1 (New York),Books,GBP,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,SEK,Next Day Air
+Warehouse 1 (New York),Electronics & Software,AUD,Next Day Air
+Warehouse 2 (Los Angeles),Apparel,RUB,2nd Day Air
+Warehouse 2 (Los Angeles),Books,RON,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,HKD,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,USD,2nd Day Air
+Warehouse 1 (New York),Jewelry,RON,Next Day Air
+Warehouse 1 (New York),Jewelry,CNY,Ground
+Warehouse 2 (Los Angeles),Jewelry,GBP,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,RON,Next Day Air
+Warehouse 1 (New York),Books,INR,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,EUR,Ground
+Warehouse 2 (Los Angeles),Books,INR,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,AUD,Ground
+Warehouse 2 (Los Angeles),Jewelry,RUB,Next Day Air
+Warehouse 1 (New York),Downloadable Products,RON,Next Day Air
+Warehouse 1 (New York),Downloadable Products,AUD,Ground
+Warehouse 1 (New York),Books,HKD,Next Day Air
+Warehouse 2 (Los Angeles),Books,HKD,Ground
+Warehouse 1 (New York),Jewelry,INR,2nd Day Air
+Warehouse 2 (Los Angeles),Jewelry,AUD,Ground
+Warehouse 1 (New York),Jewelry,HKD,Ground
+Warehouse 2 (Los Angeles),Electronics & Software,INR,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,SEK,Ground
+Warehouse 2 (Los Angeles),Books,JPY,2nd Day Air
+Warehouse 1 (New York),Jewelry,USD,Ground
+Warehouse 1 (New York),Downloadable Products,HKD,Next Day Air
+Warehouse 1 (New York),Downloadable Products,JPY,Ground
+Warehouse 1 (New York),Downloadable Products,RUB,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,CNY,Next Day Air
+Warehouse 2 (Los Angeles),Apparel,GBP,Next Day Air
+Warehouse 1 (New York),Electronics & Software,HKD,2nd Day Air
+Warehouse 1 (New York),Apparel,EUR,Ground
+Warehouse 1 (New York),Downloadable Products,EUR,2nd Day Air
+Warehouse 1 (New York),Jewelry,RUB,Ground
+Warehouse 1 (New York),Jewelry,CNY,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,CNY,2nd Day Air
+Warehouse 1 (New York),Apparel,CAD,Ground
+Warehouse 1 (New York),Apparel,GBP,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,USD,Next Day Air
+Warehouse 1 (New York),Books,USD,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,JPY,Ground
+Warehouse 1 (New York),Jewelry,CAD,Next Day Air
+Warehouse 1 (New York),Downloadable Products,RON,2nd Day Air
+Warehouse 2 (Los Angeles),Jewelry,AUD,Next Day Air
+Warehouse 1 (New York),Electronics & Software,RUB,Ground
+Warehouse 2 (Los Angeles),Apparel,CAD,Next Day Air
+Warehouse 1 (New York),Electronics & Software,INR,Next Day Air
+Warehouse 1 (New York),Apparel,JPY,Next Day Air
+Warehouse 1 (New York),Electronics & Software,USD,Next Day Air
+Warehouse 1 (New York),Electronics & Software,RON,Ground
+Warehouse 1 (New York),Apparel,HKD,2nd Day Air
+Warehouse 2 (Los Angeles),Books,RUB,Next Day Air
+Warehouse 2 (Los Angeles),Books,USD,2nd Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,AUD,2nd Day Air
+Warehouse 1 (New York),Books,INR,Ground
+Warehouse 2 (Los Angeles),Electronics & Software,INR,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,AUD,Ground
+Warehouse 1 (New York),Downloadable Products,SEK,Next Day Air
+Warehouse 1 (New York),Books,RUB,Ground
+Warehouse 2 (Los Angeles),Jewelry,EUR,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,GBP,Ground
+Warehouse 1 (New York),Apparel,CNY,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,CAD,Ground
+Warehouse 2 (Los Angeles),Electronics & Software,AUD,2nd Day Air
+Warehouse 2 (Los Angeles),Books,EUR,2nd Day Air
+Warehouse 2 (Los Angeles),Books,HKD,2nd Day Air
+Warehouse 1 (New York),Books,USD,Ground
+Warehouse 1 (New York),Apparel,GBP,2nd Day Air
+Warehouse 1 (New York),Jewelry,SEK,Ground
+Warehouse 1 (New York),Downloadable Products,CAD,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,RUB,Next Day Air
+Warehouse 1 (New York),Books,RON,Ground
+Warehouse 1 (New York),Apparel,HKD,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,HKD,Ground
+Warehouse 2 (Los Angeles),Electronics & Software,HKD,Ground
+Warehouse 2 (Los Angeles),Apparel,EUR,2nd Day Air
+Warehouse 1 (New York),Apparel,RUB,Ground
+Warehouse 2 (Los Angeles),Jewelry,RON,2nd Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,JPY,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,JPY,Next Day Air
+Warehouse 1 (New York),Apparel,SEK,Ground
+Warehouse 1 (New York),Downloadable Products,GBP,Next Day Air
+Warehouse 1 (New York),Books,SEK,Next Day Air
+Warehouse 1 (New York),Books,JPY,Ground
+Warehouse 1 (New York),Electronics & Software,CAD,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,GBP,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,JPY,Ground
+Warehouse 2 (Los Angeles),Jewelry,INR,Next Day Air
+Warehouse 2 (Los Angeles),Apparel,SEK,Next Day Air
+Warehouse 2 (Los Angeles),Books,CNY,2nd Day Air
+Warehouse 2 (Los Angeles),Jewelry,USD,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,RON,2nd Day Air
+Warehouse 1 (New York),Jewelry,EUR,2nd Day Air
+Warehouse 2 (Los Angeles),Books,AUD,Ground
+Warehouse 2 (Los Angeles),Electronics & Software,CNY,Next Day Air
+Warehouse 1 (New York),Jewelry,GBP,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,EUR,Ground
+Warehouse 1 (New York),Jewelry,AUD,2nd Day Air
+Warehouse 2 (Los Angeles),Jewelry,SEK,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,CAD,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,EUR,Next Day Air
+Warehouse 1 (New York),Apparel,RON,2nd Day Air
+Warehouse 1 (New York),Jewelry,EUR,Next Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,GBP,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,CAD,2nd Day Air
+Warehouse 1 (New York),Downloadable Products,INR,Next Day Air
+Warehouse 1 (New York),Jewelry,JPY,Next Day Air
+Warehouse 1 (New York),Electronics & Software,JPY,Ground
+Warehouse 1 (New York),Books,AUD,Next Day Air
+Warehouse 1 (New York),Electronics & Software,EUR,Next Day Air
+Warehouse 1 (New York),Electronics & Software,GBP,Ground
+Warehouse 2 (Los Angeles),Apparel,RON,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,CAD,2nd Day Air
+Warehouse 1 (New York),Books,CAD,2nd Day Air
+Warehouse 1 (New York),Jewelry,GBP,Ground
+Warehouse 2 (Los Angeles),Books,SEK,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,USD,Ground
+Warehouse 1 (New York),Apparel,RON,Ground
+Warehouse 2 (Los Angeles),Jewelry,INR,Ground
+Warehouse 1 (New York),Apparel,AUD,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,HKD,Next Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,GBP,2nd Day Air
+Warehouse 2 (Los Angeles),Downloadable Products,CAD,Ground
+Warehouse 2 (Los Angeles),Jewelry,RUB,2nd Day Air
+Warehouse 1 (New York),Apparel,RUB,Next Day Air
+Warehouse 1 (New York),Jewelry,SEK,Next Day Air
+Warehouse 1 (New York),Books,EUR,Ground
+Warehouse 1 (New York),Apparel,CNY,Ground
+Warehouse 1 (New York),Electronics & Software,EUR,2nd Day Air
+Warehouse 1 (New York),Downloadable Products,USD,2nd Day Air
+Warehouse 1 (New York),Downloadable Products,INR,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,HKD,2nd Day Air
+Warehouse 1 (New York),Electronics & Software,HKD,Next Day Air
+Warehouse 1 (New York),Books,CNY,Next Day Air
+Warehouse 1 (New York),Books,CNY,Ground
+Warehouse 1 (New York),Jewelry,USD,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,RUB,2nd Day Air
+Warehouse 1 (New York),Apparel,INR,2nd Day Air
+Warehouse 2 (Los Angeles),Apparel,USD,Next Day Air
+Warehouse 1 (New York),Apparel,INR,Ground
+Warehouse 2 (Los Angeles),Apparel,AUD,2nd Day Air
+Warehouse 1 (New York),Jewelry,JPY,2nd Day Air
+Warehouse 1 (New York),Books,CAD,Ground
+Warehouse 2 (Los Angeles),Downloadable Products,CNY,Next Day Air
+Warehouse 2 (Los Angeles),Jewelry,RON,Ground
+Warehouse 2 (Los Angeles),Books,GBP,2nd Day Air
+Warehouse 1 (New York),Jewelry,HKD,2nd Day Air
+Warehouse 2 (Los Angeles),Electronics & Software,SEK,2nd Day Air
+Warehouse 1 (New York),Books,RUB,2nd Day Air
+Warehouse 2 (Los Angeles),Books,SEK,Ground
+Warehouse 1 (New York),Apparel,SEK,2nd Day Air
+Warehouse 2 (Los Angeles),Books,EUR,Next Day Air

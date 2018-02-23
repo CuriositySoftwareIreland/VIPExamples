@@ -1,0 +1,66 @@
+Processing Breakpoint
+Processing ExecuteWorkflow
+Processing ExecuteWorkflowStatic
+Processing Parallel
+Processing Sequence
+Processing Terminate
+Processing TryCatch
+Line DoubleClick "yip"
+Line Click "File"
+Line Click (Image:"New", WaitFor:20)
+Line wait 5
+Line Click "DesignerClick"
+Line wait 1
+Line DoubleClick "Flowchart", 
+Line <<EGGTAG1>>
+Tag EGGTAG1
+Tag Drag "VIP_Designer_Flowchart_Breakpoint"
+Drop "DropUnderStart", 
+Click "VIP_canvas_Breakpoint"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_ExecuteWorkflow"
+Drop "DropUnderStart", 
+Click "VIP_canvas_ExecuteWorkflow"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_ExecuteWorkflowStatic"
+Drop "DropUnderStart", 
+Click "VIP_canvas_ExecuteWorkflowStatic"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_Parallel"
+Drop "DropUnderStart", 
+Click "VIP_canvas_Parallel"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_Sequence"
+Drop "DropUnderStart", 
+Click "VIP_canvas_Sequence"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_Terminate"
+Drop "DropUnderStart", 
+Click "VIP_canvas_Terminate"
+TypeText deleteKey
+
+Tag Drag "VIP_Designer_Flowchart_TryCatch"
+Drop "DropUnderStart", 
+Click "VIP_canvas_TryCatch"
+TypeText deleteKey
+
+Line TypeText altKey, "f"
+Line wait 5
+Line TypeText "s"
+Line wait 3
+Line TypeText Return
+Line wait 2
+Line TypeText "1"
+Line Wait 2
+Line TypeText Return
+Line Wait 3
+Line TypeText Return
+Line Wait 2
+Line TypeText altKey, F4
+Line Wait 3
+Line TypeText Escape

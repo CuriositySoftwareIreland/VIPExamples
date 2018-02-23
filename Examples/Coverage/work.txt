@@ -1,0 +1,4 @@
+Warehouse.Name,Warehouse 1 (New York),Warehouse 2 (Los Angeles)
+TaxCategory.Name,Apparel,Books,Downloadable Products,Electronics & Software,Jewelry
+Currency.CurrencyCode,AUD,CAD,CNY,EUR,GBP,HKD,INR,JPY,RON,RUB,SEK,USD
+ShippingMethod.Name,2nd Day Air,Ground,Next Day Air

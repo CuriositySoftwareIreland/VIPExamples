@@ -1,0 +1,10 @@
+F:\shipped_examples\IsPrime\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.dll
+F:\shipped_examples\IsPrime\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+F:\shipped_examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+F:\shipped_examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.dll
+F:\shipped_examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.dll
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.dll
+C:\ProgramData\VIP\examples\IsPrime\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
