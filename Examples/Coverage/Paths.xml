@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathType guid="e856c1bdc2974f1a8f1e3ed4ff5ed1e5" xmlVersion="1.0" PathTypeId="15" PathTypeName="Generated Paths" PathTypeComplexity="438" PathTypeSteps="73" PathTypeNodeEdges="42" PathTypeCost="2350" PathTypeFactor="0.5" PathTypeBlendedRate="10" PathTypeDefaultComplexity="6">
+    <Paths>
+        <Path guid="0b94063915d343d08b54209caa058ced" xmlVersion="1.0" name="ClaimTest1" testState="0" pathWeight="0" notes="Stored as path number 1 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 1 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="611b33e8c58d4d45bb7464879107bafa" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="64ec7e58584744ae9efc8bc482a17bda" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="d996bb21e79340eab5d8543345fee48f" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="c1f89a6155d04f41ac213e18f31f7af1" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="1e314da6b1dc4f5281c8b6921f5ab1d1" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="31065533d8834eaeb729a993651b1576" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="1dcc326aa7c5466b938bbc0e3ae3d6bf" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,1000,681,684,-1:1000,990,691,694,-1:990,980,701,703,-1:980,960,724,723,-1:960,1040,714,717,-1:1040,5780,5771,5773,252:5780,1050,1031,1034,-1:1050,860,761,762,-1:860,910,744,743,-1:910,-1,671,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="a323ee530f0d4f33bb5af206d04c5543" xmlVersion="1.0" name="ClaimTest2" testState="0" pathWeight="0" notes="Stored as path number 2 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 2 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:47:57 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:41:51 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="3fca721df92541b381f06173cfa65ec6" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="a37d625cb36344cf8c83d264c3813a5a" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="9bab2dcf84e649c2ab6f9e9c9dac3306" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="0e1c08908b6344aebb16b33e31f8994f" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="da7bacacce6342df86d919ccfb5d8241" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="8bb6e93f17694377b5f6855c1e80b9fd" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="0cf6bd1bd2d941bfa9c193b8eb51fb08" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,940,681,683,-1:940,920,735,733,-1:920,10620,711,712,-1:10620,1100,1081,1082,-1:1100,800,791,794,-1:800,820,782,783,-1:820,-1,672,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="cded2859ed084664814abdf8f4481ef6" xmlVersion="1.0" name="ClaimTest3" testState="0" pathWeight="0" notes="Stored as path number 3 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 3 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="f8905b945aa045c1842ba4000fdf3381" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="f4bde40e9cc94fe98028dee1f3ba4adb" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="3992227a8e854817aff2536ecde4fad5" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="e6279694b3694eeb9e3df0414d35666c" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="9c8784dc755e4afa9f6afeaf163a6ee8" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="364e9fcf18b648ac8fd88b1f58128790" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="ac0107e4d77047d59446a55eaddd7754" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,1000,681,684,-1:1000,970,691,693,-1:970,960,721,723,-1:960,1040,714,717,-1:1040,5780,5771,5773,255:5780,1070,1031,1032,-1:1070,910,741,743,-1:910,-1,671,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="923715b962c748e4935c80901680aeff" xmlVersion="1.0" name="ClaimTest4" testState="0" pathWeight="0" notes="Stored as path number 4 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 4 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="e6b4d7b0139649c1a2bed554ce5b086b" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="2f4ba8424fb94a7ca2ad6daf9da3ddd3" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="d10bd3e34e45463680188f0a5abfb43d" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="b7e9aa91a59b4f73998224160c514b89" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="b60c2a5cd12a44c795d3ff765b8b0795" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="bc91babbdd754c0c930c30722fd4ba01" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="f63af7e855e24a058b6f88d3cfba7d7e" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,950,681,682,-1:950,930,736,734,-1:930,960,722,723,-1:960,1040,714,717,-1:1040,5780,5771,5773,252:5780,1060,1031,1033,-1:1060,910,745,743,-1:910,-1,671,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="9bc945d494404b8b826d336ae7c4ffda" xmlVersion="1.0" name="ClaimTest5" testState="0" pathWeight="0" notes="Stored as path number 5 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 5 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:47:57 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:41:51 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="fc34d755b6da46ecab022db7b69b375f" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="0a02042cfd1c4942afded233f9331304" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="3f14d08005da491e9bdcb5e2aa3ebf53" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="e581dc445b49402fa1aef129f38e4f63" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="7c1aed874d7047099d8c90fcae536907" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="6197be3c41b2458591093ba84d11b71d" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="61029669a30c40cebc8ce9b3a25ba571" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,940,681,683,-1:940,920,735,733,-1:920,10620,711,712,-1:10620,1120,1081,1087,-1:1120,820,786,783,-1:820,-1,672,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="a50d7ec3942a4977ac0b3b1bd46ac208" xmlVersion="1.0" name="ClaimTest6" testState="0" pathWeight="0" notes="Stored as path number 6 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 6 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="3e0519c7674a4744bb7e0717c91345ae" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="4f2207ca21f4423fa8d987a4dfc3f04f" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="44edae48b54d4d3ea68aee5b93031760" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="b3f0876b519442c5bede9767042a8e72" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="894b9bf99a124b6997a909c98a1d8bc9" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="0b24c65d9a1f4af59f08b23d510841df" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="053212bfc9f64587adc66a5119a60d7c" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,940,681,683,-1:940,920,735,733,-1:920,1040,711,717,-1:1040,5800,5771,5772,254:5800,820,785,783,-1:820,-1,672,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="d87658cd699e4d9ea4bcb63f34547abe" xmlVersion="1.0" name="ClaimTest7" testState="0" pathWeight="0" notes="Stored as path number 7 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 7 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="edae1e0baefb48f7aa3e06147c1e2eb4" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="972b19bc18404726993311b11aac3ea4" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="db7187cb6da64af79d796a9ad2e883f2" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="08e0d40b47d34eb3b21db0a20e76eff3" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="e71a5f1b87a6459194b4a8a8af95b1ab" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="19749ab3aee0425ca96df9279f76b901" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="8a1d3e8e49d84693a3a2199d2862f4b3" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,940,681,683,-1:940,920,735,733,-1:920,1040,711,717,-1:1040,5790,5771,5778,253:5790,820,784,783,-1:820,-1,672,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="1dbdcb76ece24318bb62febb9a4e9f62" xmlVersion="1.0" name="ClaimTest8" testState="0" pathWeight="0" notes="Stored as path number 8 of 8 using optimization type: Maximal Coverage - All Edges" source="1" importSource="" storedID="1" details="Stored as path number 8 of 8 using optimization type: Maximal Coverage - All Edges" creator="huw" createdDate="Fri Oct 23 18:44:29 2015" modifiedDate="Fri Oct 13 13:32:46 2017" versionCreated="1.0.0.8" modificationHistory="13/10/2017 13:32&#9;huwpr:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:47:57 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Tue Dec 8 13:41:51 2015&#9;huw:&#10;Path Repaired&#10;-----&#10;&#10;Fri Oct 23 18:44:29 2015&#9;huw:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="e35969ab207446fb8f7a2c2632984b64" xmlVersion="1.0">
+                <Role id="8">
+                    <Person guid="7faf1c85cc1d4d3ab7b36347ada67327" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="9">
+                    <Person guid="8a25e95142144a05a7b4db22c09f60ef" xmlVersion="1.0" id="3" isDefault="1"/>
+                </Role>
+                <Role id="10">
+                    <Person guid="bfa00b25a1e34517ab611237b6fb7a07" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="11">
+                    <Person guid="7f4fd011da434750ba22de04567ca013" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="7">
+                    <Person guid="ff183d5840cd4e708865b8407903866b" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+                <Role id="12">
+                    <Person guid="420268373c804a3187936eac7735f8b2" xmlVersion="1.0" id="1" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,10640,-1,663,-1:10640,10650,10631,10633,-1:10650,940,681,683,-1:940,920,735,733,-1:920,10620,711,712,-1:10620,1110,1081,1084,-1:1110,820,781,783,-1:820,-1,672,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+    </Paths>
+</PathType>

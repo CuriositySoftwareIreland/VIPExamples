@@ -1,0 +1,6 @@
+BackupWebSite F:\shipped_examples\ftp\ftp.vip
+DailyBackup F:\shipped_examples\DailyBackup\DailyBackup.vip
+EmailTrial F:\shipped_examples\Email\GetLicenceAndEmail.vip
+ExchangeRate F:\shipped_examples\SeleniumAutomation\WebXE.vip
+Lookupkey=exchangerate the find a specific column Get the current Exchange Rate from webxe.com
+
